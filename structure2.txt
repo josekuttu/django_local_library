@@ -1,0 +1,33 @@
+Folder PATH listing for volume Personal
+Volume serial number is FC0E-87D1
+D:.
+¦   .gitignore
+¦   db.sqlite3
+¦   LICENSE
+¦   manage.py
+¦   README.md
+¦   structure2.txt
+¦   
++---locallibrary
+    ¦   asgi.py
+    ¦   settings.py
+    ¦   urls.py
+    ¦   wsgi.py
+    ¦   __init__.py
+    ¦   
+    +---catalog
+    ¦   ¦   admin.py
+    ¦   ¦   apps.py
+    ¦   ¦   models.py
+    ¦   ¦   tests.py
+    ¦   ¦   urls.py
+    ¦   ¦   views.py
+    ¦   ¦   __init__.py
+    ¦   ¦   
+    ¦   +---migrations
+    ¦           __init__.py
+    ¦           
+    +---__pycache__
+            settings.cpython-312.pyc
+            __init__.cpython-312.pyc
+            
